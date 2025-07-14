@@ -1,0 +1,8 @@
+{
+  "name": "Sabelo Todo",
+  "description": "Una aplicación de estudio gamificada con IA que analiza tus apuntes (en formato de imagen) o cualquier tema que elijas, y crea materiales de estudio y cuestionarios para hacer el aprendizaje más efectivo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
